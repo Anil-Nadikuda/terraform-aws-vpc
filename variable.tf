@@ -14,7 +14,7 @@ variable "common_tags" {
 }
 
 variable "vpc_tags" {
-  type = map 
+  type = map
   default = {}
 }
 
